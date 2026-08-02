@@ -1,7 +1,10 @@
 {
+  "contact": {
+    "location": "Peshawar, Pakistan (Global Remote)",
+    "email": "hello@lizzdo.com",
+    "phone": "+92 3XX XXXXXXX"
+  },
   "site_name": "Lizzdo",
-  "logo": "",
-  "favicon": "",
   "nav": [
     {
       "label": "HOME",
@@ -32,13 +35,9 @@
       "url": "/about"
     }
   ],
-  "footer_text": "Lizzdo Studio is a premium 3D design and web development agency. We craft digital experiences, games, and brand identities that stand out.",
   "copyright": "© 2026 Lizzdo. All rights reserved.",
-  "contact": {
-    "location": "Peshawar, Pakistan (Global Remote)",
-    "email": "hello@lizzdo.com",
-    "phone": "+92 3XX XXXXXXX"
-  },
+  "logo": "/uploads/lizzdo-logo.png",
+  "company_name": "Lizzdo",
   "social": [
     {
       "platform": "Facebook",
@@ -66,11 +65,13 @@
       "icon": "BehanceIcon"
     }
   ],
-  "company_name": "Lizzdo",
-  "tagline": "Creative Studio",
-  "default_title": "Lizzdo | Creative Studio",
-  "default_description": "We build beautiful digital products.",
+  "tagline": "Creative Studio | 3D, AI, Game Development & Digital Solutions",
+  "company_info": "Lizzdo is a creative digital agency specializing in 3D modeling, animation, game development, AI solutions, web development, mobile applications, branding, print design, and custom digital experiences. We combine creativity, innovation, and technology to deliver high-quality solutions for businesses, creators, startups, and enterprises worldwide.",
+  "footer_text": "Lizzdo is a creative digital studio delivering premium 3D design, animation, game development, AI solutions, web development, mobile apps, branding, print design, and innovative digital experiences that help businesses grow and stand out.",
   "default_og_image": "",
+  "favicon": "/uploads/favicon-32x32.png",
+  "default_title": "Lizzdo | Creative Studio",
+  "default_description": "Lizzdo provides professional 3D modeling, animation, game development, AI solutions, web development, mobile app development, branding, print design, Roblox development, Unity, Unreal Engine, and complete digital solutions.",
   "footer_nav": [
     {
       "label": "Terms of Service",
