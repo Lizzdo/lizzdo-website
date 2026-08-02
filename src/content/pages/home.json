@@ -1,13 +1,4 @@
 {
-  "hero": {
-    "headline": "CRAFTING",
-    "subtitle": "We are a creative studio specializing in immersive 3D experiences, cutting-edge web development, and visionary design.",
-    "primary_btn": "Start a Project",
-    "primary_url": "/contact",
-    "secondary_btn": "View Portfolio",
-    "secondary_url": "/portfolio",
-    "highlight": "DIGITAL EXCELLENCE"
-  },
   "statistics": [
     {
       "label": "Digital Assets Created",
@@ -28,11 +19,19 @@
   ],
   "featured_services": {
     "title": "OUR EXPERTISE",
-    "subtitle": "Comprehensive digital solutions tailored to your unique needs."
+    "subtitle": "Comprehensive digital solutions tailored to your unique needs.",
+    "btn_text": "OUR SERVICES",
+    "btn_url": "https://lizzdo.com/services"
   },
-  "featured_portfolio": {
-    "title": "FEATURED WORK",
-    "subtitle": "A curated selection of our most impactful projects."
+  "cta": {
+    "headline": "READY TO START YOUR NEXT PROJECT?",
+    "subtitle": "Let's work together to create something extraordinary.",
+    "btn_text": "Get in Touch",
+    "btn_url": "/contact"
+  },
+  "featured_blog": {
+    "title": "LATEST FROM THE BLOG",
+    "subtitle": "Insights, tutorials, and news from our team."
   },
   "testimonials": {
     "title": "CLIENT SUCCESS",
@@ -60,22 +59,25 @@
       }
     ]
   },
-  "cta": {
-    "headline": "READY TO START YOUR NEXT PROJECT?",
-    "subtitle": "Let's work together to create something extraordinary.",
-    "btn_text": "Get in Touch",
-    "btn_url": "/contact"
+  "featured_portfolio": {
+    "title": "FEATURED WORK",
+    "subtitle": "A curated selection of our most impactful projects."
   },
   "featured_clients": {
     "title": "TRUSTED BY LEADING BRANDS",
     "subtitle": "We partner with visionary companies to build extraordinary digital experiences."
   },
+  "hero": {
+    "headline": "CRAFTING",
+    "subtitle": "We are a creative studio specializing in immersive 3D experiences, cutting-edge web development, and visionary design.",
+    "primary_btn": "Start a Project",
+    "primary_url": "/contact",
+    "secondary_btn": "View Portfolio",
+    "secondary_url": "/portfolio",
+    "highlight": "DIGITAL EXCELLENCE"
+  },
   "faqs": {
     "title": "COMMON QUESTIONS",
     "subtitle": "Everything you need to know about working with us."
-  },
-  "featured_blog": {
-    "title": "LATEST FROM THE BLOG",
-    "subtitle": "Insights, tutorials, and news from our team."
   }
 }
