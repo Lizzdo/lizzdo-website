@@ -393,7 +393,7 @@ collections:
           - {label: "Contact Description", name: "subtitle", widget: "text"}
           - {label: "Company Name", name: "companyName", widget: "string", required: false}
           - {label: "Contact Email", name: "email", widget: "string", required: false}
-          - {label: "Additional Contact Emails", name: "emails", widget: "list", field: {label: "Email Address", widget: "string"}, required: false}
+          - {label: "Additional Contact Emails", name: "emails", widget: "list", field: {label: "Email Address", name: "email", widget: "string"}, required: false}
           - {label: "Phone Number", name: "phone", widget: "string", required: false}
           - {label: "WhatsApp Number", name: "whatsapp", widget: "string", required: false}
           - {label: "Office Address", name: "location", widget: "text", required: false}
