@@ -1,8 +1,13 @@
 {
+  "active": true,
+  "bio": "Senior Animator & Character Rigger at Lizzdo with expertise in Blender, character rigging, skeletal systems, weight painting, IK/FK rig creation, facial rigging, motion capture cleanup, and cinematic animation. Passionate about creating fluid, expressive, and production-ready character animations for games, films, commercials, and interactive experiences.",
   "name": "YASIN AHMED",
   "slug": "team-member-7",
-  "role": "ANIMATION RIGGER",
-  "bio": "Blender expert and professional rigger dedicated to fluid and expressive character animation.",
   "thumbnail": "/lizzdo-logo.png",
-  "active": true
+  "order": 7,
+  "instagram": "https://www.instagram.com/lizzdo0",
+  "role": "Senior Animator & Character Rigger",
+  "website": "https://lizzdo.com",
+  "email": "contact@lizzdo.com",
+  "linkedin": "https://www.linkedin.com/company/lizzdo/"
 }
