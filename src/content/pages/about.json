@@ -1,25 +1,14 @@
 {
-  "company": {
-    "headline": "ABOUT LIZZDO",
-    "subtitle": "Pioneering the future of digital experiences through creativity, code, and 3D innovation.",
-    "image": "/lizzdo-logo.png"
-  },
-  "stats": [
+  "timeline": [
     {
-      "label": "Digital Assets Created",
-      "value": "2,000+"
+      "year": "2020",
+      "title": "The Beginning",
+      "description": "Lizzdo was founded with a focus on 3D design and web development."
     },
     {
-      "label": "Projects Delivered",
-      "value": "1,000+"
-    },
-    {
-      "label": "Client Satisfaction",
-      "value": "98%"
-    },
-    {
-      "label": "Years Experience",
-      "value": "7+"
+      "year": "2022",
+      "title": "Expansion",
+      "description": "Expanded our services to include comprehensive game environments."
     }
   ],
   "values": [
@@ -54,33 +43,26 @@
       "desc": "Transparent pricing, clear communication, and full commercial licensing on all work."
     }
   ],
-  "timeline": [
-    {
-      "year": "2020",
-      "title": "The Beginning",
-      "description": "Lizzdo was founded with a focus on 3D design and web development."
-    },
-    {
-      "year": "2022",
-      "title": "Expansion",
-      "description": "Expanded our services to include comprehensive game environments."
-    }
-  ],
-  "story": "Founded with a vision to bridge the gap between creative artistry and technical excellence, Lizzdo has grown into a leading digital studio. We specialize in bringing ambitious ideas to life across web, mobile, and 3D platforms.",
-  "mission": "Our mission is to empower creators and businesses with cutting-edge digital solutions that inspire, engage, and deliver measurable results.",
   "vision": "To be the globally recognized standard for digital craftsmanship, where imagination meets flawless execution.",
+  "mission": "Our mission is to empower creators and businesses with cutting-edge digital solutions that inspire, engage, and deliver measurable results.",
+  "vision_section": {
+    "title": "OUR FUTURE",
+    "heading": "Our Vision",
+    "description": "To be the globally recognized standard for digital craftsmanship, where imagination meets flawless execution.",
+    "image": "/uploads/lizzdo-logo.png"
+  },
   "company_info": {
+    "full_story": "Founded with a vision to bridge the gap between creative artistry and technical excellence, Lizzdo has grown into a leading digital studio. We specialize in bringing ambitious ideas to life across web, mobile, and 3D platforms.",
+    "logo": "/uploads/lizzdo-logo.png",
     "name": "Building the Future of",
+    "phone": "+92 3XX XXXXXXX",
     "tagline": "Digital Experiences",
     "short_desc": "Founded with a vision to bridge the gap between creative artistry and technical excellence, Lizzdo h...",
-    "full_story": "Founded with a vision to bridge the gap between creative artistry and technical excellence, Lizzdo has grown into a leading digital studio. We specialize in bringing ambitious ideas to life across web, mobile, and 3D platforms.",
-    "logo": "/lizzdo-logo.png",
-    "image": "/lizzdo-logo.png",
     "location": "Peshawar, Pakistan",
-    "email": "hello@lizzdo.com",
-    "phone": "+92 3XX XXXXXXX",
     "website": "https://lizzdo.com",
-    "founded_year": "2020"
+    "image": "/uploads/pose10.png",
+    "founded_year": "2020",
+    "email": "hello@lizzdo.com"
   },
   "mission_section": {
     "title": "OUR PURPOSE",
@@ -88,12 +70,7 @@
     "description": "Our mission is to empower creators and businesses with cutting-edge digital solutions that inspire, engage, and deliver measurable results.",
     "image": ""
   },
-  "vision_section": {
-    "title": "OUR FUTURE",
-    "heading": "Our Vision",
-    "description": "To be the globally recognized standard for digital craftsmanship, where imagination meets flawless execution.",
-    "image": ""
-  },
+  "story": "Founded with a vision to bridge the gap between creative artistry and technical excellence, Lizzdo has grown into a leading digital studio. We specialize in bringing ambitious ideas to life across web, mobile, and 3D platforms.",
   "story_section": {
     "heading": "CRAFTING REALITY",
     "content": "Founded with a vision to bridge the gap between creative artistry and technical excellence, Lizzdo has grown into a leading digital studio. We specialize in bringing ambitious ideas to life across web, mobile, and 3D platforms.",
@@ -109,5 +86,28 @@
       }
     ],
     "supporting_text": "We are passionate about design and technology."
-  }
+  },
+  "company": {
+    "headline": "ABOUT LIZZDO",
+    "subtitle": "Pioneering the future of digital experiences through creativity, code, and 3D innovation.",
+    "image": "/lizzdo-logo.png"
+  },
+  "stats": [
+    {
+      "label": "Digital Assets Created",
+      "value": "2,000+"
+    },
+    {
+      "label": "Projects Delivered",
+      "value": "1,000+"
+    },
+    {
+      "label": "Client Satisfaction",
+      "value": "98%"
+    },
+    {
+      "label": "Years Experience",
+      "value": "7+"
+    }
+  ]
 }
