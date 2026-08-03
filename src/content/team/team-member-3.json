@@ -1,8 +1,11 @@
 {
+  "active": true,
+  "bio": "Co-founder of Lizzdo with expertise in full-stack web development, cybersecurity, AI integration, Python development, and professional 3D art. Specializes in building secure web applications, interactive digital experiences, game development, character modeling, animation, and scalable software solutions that combine creativity with modern technology.",
   "name": "AIMAD",
   "slug": "team-member-3",
-  "role": "CO-FOUNDER & ANIMATOR",
-  "bio": "Lead animator and web developer specializing in character modeling, movement, and interactive experiences.",
-  "thumbnail": "/lizzdo-logo.png",
-  "active": true
+  "thumbnail": "/uploads/whatsapp-image-2026-07-05-at-9.35.59-pm.jpeg",
+  "order": 3,
+  "role": "Co-Founder | Full-Stack Developer, Cybersecurity Specialist & 3D Artist",
+  "email": "aimad@lizzdo.com",
+  "linkedin": "https://www.linkedin.com/company/lizzdo/"
 }
