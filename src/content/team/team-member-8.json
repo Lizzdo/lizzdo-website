@@ -1,8 +1,12 @@
 {
+  "active": true,
+  "bio": "Senior Full-Stack Web & App Developer at Lizzdo specializing in modern web applications, mobile app development, REST APIs, cloud-based platforms, and scalable software solutions. Experienced in React, Next.js, Node.js, Flutter, Firebase, databases, and backend development, delivering secure, high-performance, and user-friendly digital products for businesses and startups.",
   "name": "MOUIZ UR REHMAN",
   "slug": "team-member-8",
-  "role": "APP & WEB DEVELOPER",
-  "bio": "Full-stack developer focused on building robust web applications and seamless digital platforms.",
-  "thumbnail": "/lizzdo-logo.png",
-  "active": true
+  "thumbnail": "/uploads/chatgpt-image-aug-4-2026-03_48_53-am.png",
+  "instagram": "https://www.instagram.com/lizzdo0",
+  "role": "Senior Full-Stack Web & App Developer",
+  "website": "https://lizzdo.com",
+  "email": "contact@lizzdo.com",
+  "linkedin": "https://www.linkedin.com/company/lizzdo/"
 }
