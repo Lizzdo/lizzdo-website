@@ -3,6 +3,8 @@
   "slug": "team-member-1",
   "role": "FOUNDER & CEO",
   "bio": "Leader and CEO of the company who oversees operations, coordinates projects, and manages overall growth.",
-  "thumbnail": "/lizzdo-logo.png",
-  "active": true
+  "thumbnail": "/uploads/1779286790784.png",
+  "active": true,
+  "order": 1,
+  "email": "fatah@lizzdo.com"
 }
