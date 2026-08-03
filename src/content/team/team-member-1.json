@@ -1,10 +1,13 @@
 {
+  "active": true,
+  "bio": "Leader and CEO of the company who oversees operations, coordinates projects, and manages overall growth.",
   "name": "FATEH KHAN",
   "slug": "team-member-1",
-  "role": "FOUNDER & CEO",
-  "bio": "Leader and CEO of the company who oversees operations, coordinates projects, and manages overall growth.",
   "thumbnail": "/uploads/chatgpt-image-aug-4-2026-03_18_40-am.png",
-  "active": true,
   "order": 1,
-  "email": "fateh@lizzdo.com"
+  "instagram": "https://www.instagram.com/lizzdo0",
+  "role": "FOUNDER & CEO",
+  "website": "https://lizzdo.com",
+  "email": "fateh@lizzdo.com",
+  "linkedin": "https://www.linkedin.com/company/lizzdo/"
 }
