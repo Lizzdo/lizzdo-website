@@ -1,8 +1,11 @@
 {
+  "active": true,
+  "bio": "Holds a Master's degree in Artificial Intelligence (AI) (University of South Wales\n) and specializes in training generative data, machine learning workflows, and LLMs.",
   "name": "AAMIR",
   "slug": "team-member-2",
+  "thumbnail": "/uploads/aamir.png",
+  "order": 2,
   "role": "AI DATA TRAINER / LLM SPECIALIST",
-  "bio": "Holds a Master's degree in Artificial Intelligence (AI) and specializes in training generative data, machine learning workflows, and LLMs.",
-  "thumbnail": "/lizzdo-logo.png",
-  "active": true
+  "email": "aamir@lizzdo.com",
+  "linkedin": "https://www.linkedin.com/in/aamir-ul-islam-khan-630542212/"
 }
