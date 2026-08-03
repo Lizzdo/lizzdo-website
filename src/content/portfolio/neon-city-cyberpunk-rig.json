@@ -1,54 +1,103 @@
 {
-  "title": "NEON CITY CYBERPUNK RIG",
-  "slug": "neon-city-cyberpunk-rig",
-  "description": "A massive, fully rigged, modular cyberpunk character mesh with custom glowing wireframes and low-poly optimization for Unity HDRP.",
-  "thumbnail": "/lizzdo-logo.png",
-  "gallery": [
-    "/lizzdo-logo.png",
-    "/lizzdo-logo.png",
-    "/lizzdo-logo.png"
-  ],
-  "categories": [
-    "3D MODELING",
-    "UNITY FRAMEWORK"
-  ],
-  "body": "\n### Challenge\nThe client needed a photorealistic humanoid asset that could run on mobile platforms without sacrificing the high-definition neon subsurface scattering materials. The polygon count had to be strictly under 15,000 tris.\n\n### Solution\nWe engineered a robust custom shader pipeline combined with a baked texture workflow, reducing draw calls by 80% while retaining the glowing emission maps.\n\n### Results\n- 15k Tri Limit Respected\n- 60 FPS on Mobile\n- Custom Shaders Built\n\n### Technologies Used\n- Blender\n- Unity HDRP\n- Substance Painter\n\n### Client\nVoid Interactive Games\n",
-  "client": "Void Interactive Games",
-  "industry": "Gaming & Entertainment",
-  "date": "2025-10-15T00:00:00Z",
-  "duration": "3 Weeks",
-  "role": "Lead 3D Artist & Technical Director",
-  "software": [
-    "Blender",
-    "Substance Painter",
-    "Unity HDRP",
-    "ZBrush"
-  ],
-  "tech": [
-    "C#",
-    "HLSL",
-    "Shader Graph"
-  ],
+  "goals": "Create a unique, high-quality horror monster character optimized for Roblox while delivering cinematic visual quality, clean topology, and excellent real-time performance for games and animations.",
   "skills": [
     "Hard Surface Modeling",
     "Retopology",
     "Rigging",
     "Material Authoring"
   ],
-  "tags": [
-    "Cyberpunk",
+  "body": "Void Horror is a premium stylized Roblox monster character designed for horror games, survival experiences, cinematic animations, and Halloween-themed projects. Inspired by mysterious creatures from dark fantasy and psychological horror, the character features a massive fur-covered monster head with sharp spikes, glowing red eyes hidden within a shadowy face, blood-stained clothing, and engraved robotic-style legs that create a unique contrast between organic and mechanical design. Every detail was carefully sculpted and optimized to deliver a high-quality appearance while maintaining excellent performance inside Roblox Studio. The asset includes clean topology, optimized geometry, professional UV mapping, detailed PBR textures, and a well-organized mesh structure for efficient production workflows. Designed using an industry-standard pipeline, this character is suitable for Roblox experiences, game development, promotional artwork, animations, portfolio showcases, and custom horror projects. The result is a distinctive game-ready monster that combines striking visuals with smooth real-time performance.",
+  "github": "https://github.com/lizzdo",
+  "external_website": "https://lizzdo.com",
+  "software": [
+    "Blender",
+    "Roblox Studio",
+    "Substance Painter",
+    "Photoshop",
+    "ZBrush"
+  ],
+  "technologies": [
+    "Polygon Modeling",
+    "Digital Sculpting",
+    "UV Mapping",
+    "PBR Texturing",
+    "Texture Baking",
+    "Mesh Optimization",
     "Character Design",
-    "Real-time"
+    "Game Asset Creation",
+    "Roblox Pipeline",
+    "Real-Time Rendering",
+    "Material Authoring",
+    "Low Poly Optimization"
+  ],
+  "slug": "void-horror-stylized-roblox-character",
+  "client": "Lizzdo Studio",
+  "thumbnail": "/uploads/cyberpunk_showcase_800x600-3-.png",
+  "featured": true,
+  "published": true,
+  "order": 5,
+  "date": "2025-10-15T00:00:00Z",
+  "challenges": "Designing an intimidating horror creature with dense fur details, glowing eyes, blood effects, and mechanical lower-body elements while keeping the asset optimized for Roblox and maintaining efficient geometry.",
+  "gallery": [
+    "/uploads/untitled.png",
+    "/uploads/1.png",
+    "/uploads/2.png"
   ],
   "status": "Completed",
-  "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-  "external_website": "https://lizzdo.com",
-  "github": "https://github.com/lizzdo",
+  "og_image": "/uploads/cyberpunk_showcase_800x600-3-.png",
+  "duration": "3 Weeks",
+  "role": "Lead 3D Artist & Technical Director",
+  "tech": [
+    "C#",
+    "HLSL",
+    "Shader Graph"
+  ],
+  "results": "Premium Horror Character\nRoblox Game Ready\nOptimized Geometry\nClean UV Layout\nHigh-Resolution PBR Textures\nAnimation Ready\nPortfolio Quality Asset\nReal-Time Optimized",
+  "seo_title": "Void Horror Stylized Roblox Character | Premium Roblox Horror Monster by Lizzdo",
+  "title": "Void Horror – Stylized Roblox Monster Character",
+  "tags": [
+    "Roblox",
+    "Roblox Character",
+    "Horror Character",
+    "Monster",
+    "Horror Monster",
+    "Stylized Character",
+    "Horror Game",
+    "Roblox Horror",
+    "Creature Design",
+    "Dark Fantasy",
+    "Halloween",
+    "Roblox Studio",
+    "Blender",
+    "Character Modeling",
+    "3D Character",
+    "Game Asset",
+    "Game Ready",
+    "Low Poly",
+    "PBR Textures",
+    "UV Mapping",
+    "Horror Asset",
+    "Monster Design",
+    "Animation Ready",
+    "Indie Game",
+    "Survival Game",
+    "Digital Art"
+  ],
+  "solution": "A professional high-to-low poly workflow was used to sculpt the character, bake fine details into optimized textures, create efficient UV layouts, and produce a clean game-ready mesh suitable for Roblox Studio and real-time rendering.",
+  "seo_description": "Discover a premium stylized Roblox horror monster featuring a fur-covered creature design, glowing red eyes, optimized topology, PBR textures, and game-ready performance for Roblox horror experiences and animations.",
+  "video": "https://www.youtube.com/watch?v=GKOTpfeE-nw",
+  "website": "",
+  "categories": [
+    "3D MODELING",
+    "ROBLOX",
+    "CHARACTER DESIGN",
+    "HORROR GAME ASSETS"
+  ],
+  "description": "A premium stylized Roblox horror character featuring a terrifying fur-covered monster head, glowing red eyes, blood-stained clothing, and game-ready optimization for Roblox horror games, experiences, animations, and showcases.",
   "features": [
     "Fully modular armor system",
     "Optimized topology (<15k tris)",
     "Custom subsurface scattering shaders"
   ],
-  "published": true,
-  "featured": false
+  "industry": "Gaming & Entertainment"
 }
