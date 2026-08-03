@@ -69,7 +69,16 @@
   },
   "featured_clients": {
     "title": "TRUSTED BY LEADING BRANDS",
-    "subtitle": "We partner with visionary companies to build extraordinary digital experiences."
+    "subtitle": "We partner with visionary companies to build extraordinary digital experiences.",
+    "clients_list": [
+      "client-13-otapia",
+      "client-11-scott",
+      "client-15-christina",
+      "client-16-bluemuck",
+      "client-18-eddie-c",
+      "client-22-daniel-podaru",
+      "client-21-private-collectibles-designer"
+    ]
   },
   "hero": {
     "headline": "CRAFTING",
