@@ -1,8 +1,13 @@
 {
+  "active": true,
+  "bio": "Senior 3D Artist & Animator at Lizzdo specializing in character modeling, digital sculpting, rigging, animation, Roblox avatars, game-ready assets, product visualization, and cinematic rendering. Passionate about creating high-quality 3D content with optimized workflows for games, interactive experiences, and digital media.",
   "name": "AHMED TAJ",
   "slug": "team-member-6",
-  "role": "3D ARTIST & ANIMATOR",
-  "bio": "Specialist in 3D artistry, Roblox character animation, and complex character setup.",
-  "thumbnail": "/lizzdo-logo.png",
-  "active": true
+  "thumbnail": "/uploads/chatgpt-image-aug-4-2026-03_14_31-am.png",
+  "order": 6,
+  "instagram": "https://www.instagram.com/lizzdo0",
+  "role": "Senior 3D Artist & Animator",
+  "website": "https://lizzdo.com",
+  "email": "contact@lizzdo.com",
+  "linkedin": "https://www.linkedin.com/company/lizzdo/"
 }
