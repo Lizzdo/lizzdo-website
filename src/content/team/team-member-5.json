@@ -1,7 +1,12 @@
 {
-  "order": 5,
   "active": true,
-  "name": "Test User",
-  "role": "Tester",
-  "bio": "Just testing"
+  "bio": "AI & Data Science Lead at Lizzdo specializing in Artificial Intelligence, Python development, machine learning, data analytics, automation, backend development, and scalable AI solutions. Experienced in building intelligent applications, custom APIs, AI integrations, data pipelines, and business automation systems that transform complex data into actionable insights.",
+  "name": "DANYAL",
+  "thumbnail": "/uploads/chatgpt-image-aug-1-2026-06_17_37-pm.png",
+  "order": 5,
+  "instagram": "https://www.instagram.com/lizzdo0",
+  "role": "AI & Data Science Lead",
+  "website": "https://lizzdo.com",
+  "email": "contact@lizzdo.com",
+  "linkedin": "https://www.linkedin.com/company/lizzdo/"
 }
