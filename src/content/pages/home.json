@@ -31,31 +31,35 @@
   },
   "featured_blog": {
     "title": "LATEST FROM THE BLOG",
-    "subtitle": "Insights, tutorials, and news from our team."
+    "subtitle": "Insights, tutorials, and news from our team.",
+    "blog_list": [
+      "roblox-engine-evolution",
+      "blender-5-1"
+    ]
   },
   "testimonials": {
     "title": "CLIENT SUCCESS",
     "list": [
       {
-        "author": "Jane Doe",
-        "role": "CEO, TechCorp",
-        "quote": "Lizzdo completely transformed our digital presence. Their attention to detail is unmatched.",
+        "author": "Sarah Mitchell",
+        "role": "Working with Lizzdo was an exceptional experience. Their team transformed our vision into a premium digital product with stunning 3D visuals, seamless user experience, and outstanding attention to detail. The results exceeded every expectation.",
+        "quote": "Working with Lizzdo was an exceptional experience. Their team transformed our vision into a premium digital product with stunning 3D visuals, seamless user experience, and outstanding attention to detail. The results exceeded every expectation.",
         "rating": 5,
-        "thumbnail": "/lizzdo-logo.png"
+        "thumbnail": "/uploads/lucid-origin_create_a_professional_portrait_of_a_person_with_a_neutral_facial_expression_smoo-0.jpg"
       },
       {
-        "author": "John Smith",
-        "role": "Marketing Director",
-        "quote": "The 3D experiences they built for our campaign doubled our engagement rate.",
+        "author": "David Chen",
+        "role": "Marketing Director, Nexa Media",
+        "quote": "Lizzdo created immersive 3D assets and interactive experiences that significantly increased our campaign engagement. Their creativity, technical expertise, and professionalism made them an invaluable partner.",
         "rating": 5,
-        "thumbnail": "/lizzdo-logo.png"
+        "thumbnail": "/uploads/lucid-origin_create_a_professional_picture_of_a_male_person_with_a_neutral_facial_expression_-0.jpg"
       },
       {
-        "author": "Alice Johnson",
-        "role": "Startup Founder",
-        "quote": "A truly visionary team. They understood our brand immediately.",
+        "author": "Emily Carter",
+        "role": "Founder, BrightLabs",
+        "quote": "From branding to development, Lizzdo understood our goals from day one. Their innovative approach, clear communication, and high-quality execution helped us launch with confidence. I would highly recommend their team.",
         "rating": 5,
-        "thumbnail": "/lizzdo-logo.png"
+        "thumbnail": "/uploads/lucid-origin_create_a_professional_portrait_of_a_confident_female_person_with_a_neutral_facia-0.jpg"
       }
     ]
   },
@@ -78,6 +82,9 @@
   },
   "faqs": {
     "title": "COMMON QUESTIONS",
-    "subtitle": "Everything you need to know about working with us."
+    "subtitle": "Everything you need to know about working with us.",
+    "faqs_list": [
+      ""
+    ]
   }
 }
